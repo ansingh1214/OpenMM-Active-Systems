@@ -12,3 +12,4 @@ https://nbviewer.org/github/ansingh1214/OpenMM-Active-Systems/blob/master/active
 ### Nbviewer link if github can't render:
 https://nbviewer.org/github/ansingh1214/OpenMM-Active-Systems/blob/master/active_brownian_openmm.ipynb
 
+![active_brownian](https://github.com/ansingh1214/OpenMM-Active-Systems/raw/master/ABP.gif)
